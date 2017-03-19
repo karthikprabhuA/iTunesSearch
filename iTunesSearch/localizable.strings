@@ -1,0 +1,12 @@
+/* 
+  localizable.strings
+  iTunesSearch
+
+  Created by Alagu Karthik Prabhu on 05/02/17.
+  Copyright © 2017 kp Alagu. All rights reserved.
+*/
+
+AppTitle = "iTunesSearch";
+NoResultsFound = "No results found";
+Loading = "Loading...";
+OK = "OK";
